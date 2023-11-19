@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Vincent</h1>
 
-<!--
-**VincentSan/VincentSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏻‍💻 I'm currently learning CyberSecurity
+- 💻 I'm currently working on my Portfolio
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">⚙️ Tech Stack :</h3>
+<p align="left">
+  <kbd><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" /> 
+  </a></kbd>
+  <kbd><a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="36" />
+  </a></kbd>
+  <kbd><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="36"/> 
+  </a></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="36" /></kbd>
+  <kbd><a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://github.com/VincentSan/VincentSan/assets/59398153/b94afd32-5fe0-4ffa-a954-eb5e2087479f" title="PortSwigger" alt="PortSwigger" width="36"/>
+  </a></kbd>
+</p> 
