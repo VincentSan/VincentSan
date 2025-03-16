@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vincent</h1>
 
 - 🧑🏻‍💻 I'm CyberSecurity Ingineer.
-- 💼 I'm looking for work.
+- 💼 I work at Devoteam
 
 <h3 align="left">⚙️ Tech Stack :</h3>
 <p align="left">
